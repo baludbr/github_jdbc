@@ -1,0 +1,9 @@
+Entities\Register.class
+Project\Project_1\App.class
+Entities\login.class
+Entities\logout.class
+Entities\Movie.class
+Entities\GetMovieDetails.class
+Entities\AddMovie.class
+Entities\MovieDetails.class
+Entities\ApiFetching.class
