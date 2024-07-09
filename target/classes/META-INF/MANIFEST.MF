@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
-Built-By: admin
-Build-Jdk: 17.0.2
+Build-Jdk-Spec: 17
+Class-Path: lib/tomcat-embed-core-10.1.10.jar lib/tomcat-annotations-api
+ -10.1.10.jar lib/tomcat-embed-jasper-10.1.10.jar lib/tomcat-embed-el-10
+ .1.10.jar lib/ecj-3.33.0.jar lib/mysql-connector-j-8.0.33.jar lib/proto
+ buf-java-3.21.9.jar lib/gson-2.8.8.jar lib/json-20210307.jar
+Main-Class: Project.Project_1.App
 Created-By: Maven Integration for Eclipse
 
